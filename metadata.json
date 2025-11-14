@@ -1,0 +1,7 @@
+{
+  "name": "VoNi",
+  "description": "Say it Better. An AI-powered coach to help you master pronunciation and accent in multiple languages with instant, accurate, and constructive feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
